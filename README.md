@@ -1,8 +1,6 @@
 # LSD 💊
 
-LSD is a liquid staking and leverage staking based yield generating vault. You can deposit your matic and receive LSD tokens which will appreciate in value w.r.t. matic over time 📈 LSD internally uses [Stader](https://www.staderlabs.com/), [Aave](https://aave.com/) & [Balancer](https://balancer.fi/) as well as the whole project is build using [scaffold-eth 2](https://github.com/scaffold-eth/se-2) 🏗️  
-For more details here is a short video explanation: [Introducing LSD 💊](https://youtu.be/OZpSNxjCBVY)  
-
+LSD is a liquid staking and leverage staking based yield generating vault. You can deposit your matic and receive LSD tokens which will appreciate in value w.r.t. matic over time 📈 LSD internally uses [Stader](https://www.staderlabs.com/), [Aave](https://aave.com/) & [Balancer](https://balancer.fi/) as well as the whole project. [Link](https://venky-kumar-lsd.netlify.app/)
 ## Contracts
 
 [LSD.sol](packages/hardhat/contracts/LSD.sol): This is the core ERC4626 based contract  
